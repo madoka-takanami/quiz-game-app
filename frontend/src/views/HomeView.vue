@@ -7,6 +7,7 @@ import TheWelcome from "../components/TheWelcome.vue";
         <TheWelcome />
         <p>練習</p>
         <p>練習</p>
+        <p>練習</p>
         <p></p>
     </main>
 </template>
